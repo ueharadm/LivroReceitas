@@ -4,17 +4,12 @@ Receita aqui
 
 ### Ingredientes
 
-- bla
+- Ingredientes do bolo
 
-- bl
-
-- bla
 
 
 
 ### Modo de preparo
 
-1. bla
-2. bla
-3. bla
+1. Modo de preparo do bolo
 
